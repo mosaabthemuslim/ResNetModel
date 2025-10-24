@@ -1,9 +1,3 @@
-Of course! Here is a comprehensive, well-structured `README.md` file for the ResNetModel notebook.
-
-You can copy and paste this directly into a `README.md` file in your GitHub repository.
-
----
-
 # ResNet Model from Scratch
 
 A PyTorch implementation of the ResNet (Residual Network) architecture, built from scratch for image classification on the CIFAR-10 dataset. This project demonstrates a deep understanding of residual blocks, skip connections, and managing deep neural networks.
