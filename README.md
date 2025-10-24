@@ -63,7 +63,7 @@ Ensure you have Python and PyTorch installed. You can install the required packa
 
 ```bash
 # It's recommended to use a virtual environment
-pip install torch torchvision matplotlib numpy
+pip install torch torchvision matplotlib numpy lightning
 ```
 
 ### Running the Project
